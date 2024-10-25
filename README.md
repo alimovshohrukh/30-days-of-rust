@@ -14,7 +14,7 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 
 | Day | Topic                 | Description                                                                 |
 | --- | ---------------------- | --------------------------------------------------------------------------- |
-| 1   | Basics                | Setup Rust environment and write a "Hello, World!" program.                |
+| 1   | [Basics](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day01_hello_world)                | Setup Rust environment and write a "Hello, World!" program.                |
 | 2   | Recursion             | Calculate the factorial of a number.                                       |
 | 3   | Calculator            | Build a basic calculator for simple operations.                           |
 | 4   | Temperature Conversion| Convert temperatures between Celsius and Fahrenheit.                      |
