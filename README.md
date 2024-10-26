@@ -10,12 +10,13 @@ Welcome to my 30-day journey of learning Rust! This repository is a collection o
 ## Structure 📁
 Each day has its own folder (`day01`, `day02`, etc.), containing:
 - **main.rs** - the Rust code for that day's challenge.
+- **Cargo.toml** - the manifest file for Rust's package manager, cargo
 - **README.md** - a brief description of the task, insights, and notes.
 
 | Day | Topic                 | Description                                                                 |
 | --- | ---------------------- | --------------------------------------------------------------------------- |
 | 1   | [Basics](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day01_hello_world)                | Setup Rust environment and write a "Hello, World!" program.                |
-| 2   | Recursion             | Calculate the factorial of a number.                                       |
+| 2   | [Recursion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day02_factorial)             | Calculate the factorial of a number.                                       |
 | 3   | Calculator            | Build a basic calculator for simple operations.                           |
 | 4   | Temperature Conversion| Convert temperatures between Celsius and Fahrenheit.                      |
 | 5   | Palindrome Check      | Write a function to check if a string is a palindrome.                    |
