@@ -23,7 +23,7 @@ Below is a brief example of the main logic for performing calculations based on 
 fn main() {
     let num1 = get_input("Enter the first number:");
     let num2 = get_input("Enter the second number:");
-    let op = get_operation();
+    let op = choose_operation();
 
     let result = calculate(num1, num2, op);
     println!("The result of {} {} {} = {}", num1, op, num2, result);
