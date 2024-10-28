@@ -18,7 +18,7 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 | 1   | [Basics](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day01_hello_world)                | Setup Rust environment and write a "Hello, World!" program.                |
 | 2   | [Recursion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day02_factorial)             | Calculate the factorial of a number.                                       |
 | 3   | [Calculator](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day03_calculator)            | Build a basic calculator for simple operations.                           |
-| 4   | Temperature Conversion| Convert temperatures between Celsius and Fahrenheit.                      |
+| 4   | [Temperature Conversion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day4_temperature_conversion)| Convert temperatures between Celsius and Fahrenheit.                      |
 | 5   | Palindrome Check      | Write a function to check if a string is a palindrome.                    |
 | 6   | Guess the Number      | Build a simple "Guess the Number" game.                                   |
 | 7   | Fibonacci Sequence    | Print the Fibonacci sequence up to `n` terms.                             |
