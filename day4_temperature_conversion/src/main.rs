@@ -1,4 +1,4 @@
-use std::io::{stdin as io, stdin};
+use std::io::stdin as io;
 
 fn main() {
     let choose_type = choose_conversion("Choose conversion type\nC for Celsius\nF for Fahrenheit");
