@@ -19,7 +19,7 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 | 2   | [Recursion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day02_factorial)             | Calculate the factorial of a number.                                       |
 | 3   | [Calculator](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day03_calculator)            | Build a basic calculator for simple operations.                           |
 | 4   | [Temperature Conversion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day4_temperature_conversion)| Convert temperatures between Celsius and Fahrenheit.                      |
-| 5   | Palindrome Check      | Write a function to check if a string is a palindrome.                    |
+| 5   | [Palindrome Check](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day5_palindrome)      | Write a function to check if a string is a palindrome.                    |
 | 6   | Guess the Number      | Build a simple "Guess the Number" game.                                   |
 | 7   | Fibonacci Sequence    | Print the Fibonacci sequence up to `n` terms.                             |
 | 8   | Vectors               | Create a program to store and print a list of numbers.                    |
