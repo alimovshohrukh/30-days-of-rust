@@ -18,10 +18,10 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 | 1   | [Basics](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day01_hello_world)                | Setup Rust environment and write a "Hello, World!" program.                |
 | 2   | [Recursion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day02_factorial)             | Calculate the factorial of a number.                                       |
 | 3   | [Calculator](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day03_calculator)            | Build a basic calculator for simple operations.                           |
-| 4   | [Temperature Conversion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day4_temperature_conversion)| Convert temperatures between Celsius and Fahrenheit.                      |
-| 5   | [Palindrome Check](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day5_palindrome)      | Write a function to check if a string is a palindrome.                    |
-| 6   | [Guess the Number](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day6_number_guess)      | Build a simple "Guess the Number" game.                                   |
-| 7   | [Fibonacci Sequence](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day7_fibonacci)    | Print the Fibonacci sequence up to `n` terms.                             |
+| 4   | [Temperature Conversion](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day04_temperature_conversion)| Convert temperatures between Celsius and Fahrenheit.                      |
+| 5   | [Palindrome Check](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day05_palindrome)      | Write a function to check if a string is a palindrome.                    |
+| 6   | [Guess the Number](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day06_number_guess)      | Build a simple "Guess the Number" game.                                   |
+| 7   | [Fibonacci Sequence](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day07_fibonacci)    | Print the Fibonacci sequence up to `n` terms.                             |
 | 8   | Vectors               | Create a program to store and print a list of numbers.                    |
 | 9   | Largest and Smallest  | Find the largest and smallest numbers in an array.                        |
 | 10  | Word Count            | Use hash maps to count occurrences of each word in a sentence.            |
