@@ -24,7 +24,7 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 | 7   | [Fibonacci Sequence](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day07_fibonacci)                  | Print the Fibonacci sequence up to `n` terms.                             |
 | 8   | [Vectors](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day08_vectors)                               | Create a program to store and print a list of numbers.                    |
 | 9   | [Largest and Smallest](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day09_largest_smallest)         | Find the largest and smallest numbers in an array.                        |
-| 10  | Word Count                                                                                                         | Use hash maps to count occurrences of each word in a sentence.            |
+| 10  | [Word Count](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day10_word_count)                         | Use hash maps to count occurrences of each word in a sentence.            |
 | 11  | Stack                                                                                                              | Implement a basic stack with push, pop, and peek functions.               |
 | 12  | File Handling                                                                                                      | Practice `Option` and `Result` types by handling file-reading errors.     |
 | 13  | Linked List                                                                                                        | Implement a program to reverse a linked list.                             |
