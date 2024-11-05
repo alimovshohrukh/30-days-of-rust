@@ -25,7 +25,7 @@ Each day has its own folder (`day01`, `day02`, etc.), containing:
 | 8   | [Vectors](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day08_vectors)                               | Create a program to store and print a list of numbers.                    |
 | 9   | [Largest and Smallest](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day09_largest_smallest)         | Find the largest and smallest numbers in an array.                        |
 | 10  | [Word Count](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day10_word_count)                         | Use hash maps to count occurrences of each word in a sentence.            |
-| 11  | Stack                                                                                                              | Implement a basic stack with push, pop, and peek functions.               |
+| 11  | [Stack](https://github.com/alimovshohrukh/30-days-of-rust/tree/main/day11_stack_data_structure)                                         | Implement a basic stack with push, pop, and peek functions.               |
 | 12  | File Handling                                                                                                      | Practice `Option` and `Result` types by handling file-reading errors.     |
 | 13  | Linked List                                                                                                        | Implement a program to reverse a linked list.                             |
 | 14  | String Manipulation                                                                                                | Format a sentence using string manipulation functions.                    |
